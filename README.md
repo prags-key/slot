@@ -32,7 +32,7 @@ Execute the program using runserver command.
         </center>
         <br>
         <table align="center" width="600" border="5" cellspacing="5" cellpadding="10">
-            <caption><b>SLOT TIME TABLE - SRI YALINE R (212224040325)</b></caption>
+            <caption><b>SLOT TIME TABLE - PRAGATHI KUMAR(212224230200)</b></caption>
             <tr bgcolor="yellow">
                 <th>TIME/DAY</th>
                 <th>MONDAY</th>
@@ -103,7 +103,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](image.png)
+![alt text](<Screenshot (121).png>)
 
 
 ## RESULT
